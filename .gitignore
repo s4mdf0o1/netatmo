@@ -1,2 +1,4 @@
 *.pyc
 __pycache__/
+netatmo_module.csv
+netatmo_station.csv
